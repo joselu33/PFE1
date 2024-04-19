@@ -779,8 +779,8 @@ a {
   }
 }
 .cid-u8GBNDcWoP {
-  padding-top: 6rem;
-  padding-bottom: 3rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-color: #8552aa;
 }
 .cid-u8GBNDcWoP .mbr-fallback-image.disabled {
@@ -800,11 +800,79 @@ a {
 }
 .cid-u8GBNDcWoP .mbr-description {
   color: #ffffff;
+  text-align: center;
+}
+.cid-uaoiFuwTYk {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #ff0f0f;
+}
+.cid-uaoiFuwTYk .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uaoiFuwTYk .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uaoiFuwTYk .card-wrapper {
+  overflow: hidden;
+  background: #ffffff;
+}
+.cid-uaoiFuwTYk .text-wrapper {
+  padding: 4rem 3rem;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uaoiFuwTYk .text-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uaoiFuwTYk .text-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-uaoiFuwTYk .row {
+  align-items: center;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+.cid-uaoiFuwTYk .row {
+  flex-direction: row-reverse;
+}
+.cid-uaoiFuwTYk .image-wrapper {
+  padding: 0 1rem;
+}
+.cid-uaoiFuwTYk img,
+.cid-uaoiFuwTYk .image-wrapper {
+  height: 600px;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-uaoiFuwTYk img,
+  .cid-uaoiFuwTYk .image-wrapper {
+    max-height: 350px;
+  }
+}
+.cid-uaoiFuwTYk .mbr-section-title {
+  color: #8552aa;
+  text-align: center;
+}
+.cid-uaoiFuwTYk .mbr-text {
+  color: #000000;
+}
+.cid-uaoiFuwTYk .mbr-text,
+.cid-uaoiFuwTYk .mbr-section-btn {
+  text-align: center;
 }
 .cid-u8GSUSStAB {
-  padding-top: 1rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
-  background-color: #979a8e;
+  background-color: #a6a99c;
 }
 .cid-u8GSUSStAB .mbr-fallback-image.disabled {
   display: none;
@@ -870,7 +938,7 @@ a {
   max-width: 800px;
 }
 .cid-u8GMJz0Rkp {
-  padding-top: 1rem;
+  padding-top: 3rem;
   padding-bottom: 1rem;
   background-image: url("../../../assets/images/mbr-1920x1440.jpeg");
 }
